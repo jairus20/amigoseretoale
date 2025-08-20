@@ -26,7 +26,3 @@ Permite ingresar nombres de participantes, mostrarlos en una lista y luego reali
 3. Escribe un nombre en el campo de texto y pulsa el botón **Añadir**.
 4. Repite el paso anterior para ingresar todos los nombres.
 5. Haz clic en **Sortear amigo** y se mostrará el nombre seleccionado.
-
----
-
-## 📂 Estructura del proyecto
